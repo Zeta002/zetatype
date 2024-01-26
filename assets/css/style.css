@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Inconsolata;
+  src: url("assets/fonts/Inconsolata-VariableFont_wdth,wght.ttf");
+}
+/* SCSS variables */
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Inconsolata, sans-serif;
+  background-color: #444444;
+}
+
+/*# sourceMappingURL=style.css.map */
